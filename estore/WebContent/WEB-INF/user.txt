@@ -1,0 +1,9 @@
+/orderServlet?method=createOrder
+/orderServlet?method=cancelOrder
+/orderServlet?method=orderDetail
+/dealServlet?method=preparedpay
+/goodsServlet?method=queryPage
+/goodsServlet?method=findGoodsById
+/orderServlet?method=orderlist
+/cartServlet?method=addCart
+/orderServlet?method=preparedOrder

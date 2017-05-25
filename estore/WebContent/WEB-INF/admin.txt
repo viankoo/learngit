@@ -1,0 +1,3 @@
+/addgoods.jsp
+/goodsServlet?method=save
+/totalSaleServlet?method=totalSal
